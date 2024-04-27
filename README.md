@@ -1,7 +1,7 @@
 ## Program IoT
 ### Schematic dengan sensor LDR
-1. [schematic](1_SCHEMATIC/schematic-sensor-ldr.pdf)
-2. [desain PCB](1_SCHEMATIC/PCB.pdf)
+1. [schematic](1_SCHEMATIC/Schematic.svg)
+2. [desain PCB](1_SCHEMATIC/PCB.svg)
 3. 3D Model
    1. [Tampak Depan](1_SCHEMATIC/tampak-depan.png)
    2. [Tampak Belakang](1_SCHEMATIC/tampak-belakang.png)
